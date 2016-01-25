@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TRC Weddings]]></title>
+        <description><![CDATA[TRC Weddings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jan 2016 03:38:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TRC Weddings]]></title>
+            <description><![CDATA[<article><h1>TRC Weddings</h1><p>We capture the motion of eternal love and joy in your story of why this day is to be treasured .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07746b2ee8554ac11aa89702617726ba78d7c4ff.jpg"></article>]]></description>
+            <link>undefinedtrc-weddings/index.html</link>
+            <guid isPermaLink="false">b72e5638-ca52-43f9-a2e6-36ae328f5104</guid>
+            <pubDate>Mon, 25 Jan 2016 03:38:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
