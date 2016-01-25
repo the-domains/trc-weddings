@@ -1,0 +1,28 @@
+name: TRC Weddings
+favicon: null
+layout_spectrum: 0.08941739774309099
+typography_spectrum: 0.15165437012910843
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9763827074784786
+  lightness: 0.42294422653503716
+  saturation: 0.7117856163531542
+  rhythmicContrast: 0.4141794918105006
+purpose: []
